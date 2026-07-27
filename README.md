@@ -17,7 +17,7 @@ Repositório pessoal com scripts em Python (`PyQGIS`) para automação de tarefa
 
 * 🔗 [Gerador de Máscara de Área de Interesse](https://github.com/EloizioHMD/qgis_script/blob/main/gerador_de_mascara_de_area_de_interesse.py): Automatiza a união (merge) de camadas selecionadas na tela, reprojeta para UTM, aplica buffer de 5.000m e dissolve o resultado final.
 * 🔗 [Nome do Script 02](./caminho_do_script_02.py): Descrição breve do que o script faz.
-つづく。
+* つづく。
 
 ---
 
