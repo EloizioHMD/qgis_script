@@ -16,7 +16,8 @@ Repositório pessoal com scripts em Python (`PyQGIS`) para automação de tarefa
 ## 📜 Scripts Disponíveis
 
 * 🔗 [Gerador de Máscara de Área de Interesse](https://github.com/EloizioHMD/qgis_script/blob/main/gerador_de_mascara_de_area_de_interesse.py): Automatiza a união (merge) de camadas selecionadas na tela, reprojeta para UTM, aplica buffer de 5.000m e dissolve o resultado final.
-* 🔗 [Seletor Automático de UTM]([./caminho_do_script_02.py](https://github.com/EloizioHMD/qgis_script/blob/main/seletor_automatico_de_utm.py)): Script de automação para QGIS que identifica automaticamente o fuso UTM adequado para a camada vetorial ativa..
+* 🔗 [Seletor Automático de UTM]([./caminho_do_script_02.py](https://github.com/EloizioHMD/qgis_script/blob/main/seletor_automatico_de_utm.py)): Script de automação para QGIS que identifica automaticamente o fuso UTM adequado para a camada vetorial ativa.
+* 🔗 [Calculadora Automática de Área e Perímetro]([./caminho_do_script_02.py](https://github.com/EloizioHMD/qgis_script/blob/main/calculadora_automatica_area_perimetro.py)): Script independente para QGIS que calcula área e perímetro de uma camada vetorial poligonal ativa.
 * 🔗 [Nome do Script](./caminho_do_script_02.py): Descrição breve do que o script faz.
 * つづく。
 
